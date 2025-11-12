@@ -12,8 +12,8 @@ use esp_idf_svc::{eventloop::EspSystemEventLoop, nvs::EspDefaultNvsPartition};
 
 use embedded_svc::wifi::{AuthMethod, ClientConfiguration, Configuration};
 
-const SSID: &str = env!("AsiaConnect4G54C987_5G");
-const PASSWORD: &str = env!("77416525");
+const SSID: &str = env!("WIFI NAME");
+const PASSWORD: &str = env!("WIFI PASSPHRASE");
 
 #[no_mangle]
 pub extern "C" fn app_main() {
