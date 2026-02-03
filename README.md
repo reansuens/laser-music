@@ -2,3 +2,5 @@ An ESP32 + 650mm laser music transmission protocol, a school project meant for e
 
 
 THIS PROJECT IS POSTPONED FOR THE TIME BEING UNTIL SUMMER OF 2026 cuz I am busy with school.
+
+probably will not finish it and will continue hanging 
