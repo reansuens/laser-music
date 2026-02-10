@@ -60,7 +60,6 @@ async fn main(spawner: Spawner) -> ! {
 
     // TODO: Spawn some tasks
     let _ = spawner;
-
     loop {
         info!("Hello world!");
         Timer::after(Duration::from_secs(1)).await;
